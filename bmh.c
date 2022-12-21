@@ -1,4 +1,3 @@
-%%writefile bmh.c
 /* BMH*/
 //#include "bmh.h"
 
